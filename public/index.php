@@ -1,4 +1,4 @@
-<h1>Hi</h1>
-
 <?php
+
+require_once dirname(__DIR__) . '/config/init.php';
 
