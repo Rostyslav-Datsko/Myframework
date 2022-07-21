@@ -10,7 +10,7 @@ define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'shop');
-define("PATH", 'http://Myframework');
+define("PATH", 'http://myframework');
 define("ADMIN", 'http://Myframework/admin');
 define("NO-IMAGE", 'uploads/no_image.jpg');
 
