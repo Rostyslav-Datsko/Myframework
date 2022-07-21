@@ -10,8 +10,8 @@ define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
 define("LAYOUT", 'shop');
-define("PATH", 'http://myframework');
-define("ADMIN", 'http://Myframework/admin');
+define("PATH", 'http://myframework.loc');
+define("ADMIN", 'http://myframework.loc/admin');
 define("NO-IMAGE", 'uploads/no_image.jpg');
 
 require_once ROOT . '/vendor/autoload.php';

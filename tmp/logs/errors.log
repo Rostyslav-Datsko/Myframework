@@ -32,3 +32,25 @@
 =================
 [2022-07-21 17:31:42] Текст помилки: Виникла помилка |Файл: D:\OpenServer\domains\Myframework\public\index.php | Рядок: 7 
 =================
+[2022-07-21 23:56:11] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 30 
+=================
+[2022-07-22 00:03:29] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 30 
+=================
+[2022-07-22 00:03:39] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 30 
+=================
+[2022-07-22 00:14:26] Текст помилки: Контроллер \app\controllers\CategoryController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 39 
+=================
+[2022-07-22 00:14:46] Текст помилки: Контроллер \app\controllers\MainController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 39 
+=================
+[2022-07-22 00:15:58] Текст помилки: Метод \app\controllers\MainController::indexAction не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 36 
+=================
+[2022-07-22 00:20:06] Текст помилки: Контроллер \app\controllers\admin\MainController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 39 
+=================
+[2022-07-22 00:21:50] Текст помилки: Контроллер \app\controllers\admin\MainController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 39 
+=================
+[2022-07-22 00:21:53] Текст помилки: Контроллер \app\controllers\admin\MainController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 39 
+=================
+[2022-07-22 00:22:11] Текст помилки: Контроллер \app\controllers\admin\MainController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 39 
+=================
+[2022-07-22 00:22:22] Текст помилки: Метод \app\controllers\admin\MainController::indexAction не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 36 
+=================

@@ -1,10 +1,12 @@
 <?php
 
 require_once dirname(__DIR__) . '/config/init.php';
+require_once HELPERS . '/functions.php';
+require_once CONFIG . '/routes.php';
+
+
 
 new \wfm\App();
 
-//throw new Exception('Виникла помилка', 404);
-
-//echo $test;
+debug(wfm\Router::getRoutes());
 
