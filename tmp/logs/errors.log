@@ -56,3 +56,27 @@
 =================
 [2022-07-27 23:08:30] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
 =================
+[2022-07-28 00:26:36] Текст помилки: Ненайдено view:D:\OpenServer\domains\myframework.loc/app/view/admin/Main/index.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 34 
+=================
+[2022-07-28 00:28:00] Текст помилки: Не найдено view:D:\OpenServer\domains\myframework.loc/app/view/admin/Main/index.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 34 
+=================
+[2022-07-28 00:28:24] Текст помилки: Не найдено view:D:\OpenServer\domains\myframework.loc/app/view/admin/Main/index.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 34 
+=================
+[2022-07-28 00:30:11] Текст помилки: Не найдено view:D:\OpenServer\domains\myframework.loc/app/views/admin/Main/index.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 34 
+=================
+[2022-07-28 00:30:24] Текст помилки: Не найдено view:D:\OpenServer\domains\myframework.loc/app/views/admin/Main/index.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 34 
+=================
+[2022-07-28 00:42:29] Текст помилки: Call to undefined function debug() |Файл: D:\OpenServer\domains\myframework.loc\public\index.php | Рядок: 11 
+=================
+[2022-07-28 00:58:00] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/shop.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
+=================
+[2022-07-28 00:59:28] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/shop.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
+=================
+[2022-07-28 00:59:41] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/test.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
+=================
+[2022-07-28 01:01:07] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/test2.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
+=================
+[2022-07-28 01:01:45] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/shop.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
+=================
+[2022-07-28 01:02:26] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/ishop.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
+=================
