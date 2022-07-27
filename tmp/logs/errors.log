@@ -54,3 +54,5 @@
 =================
 [2022-07-22 00:22:22] Текст помилки: Метод \app\controllers\admin\MainController::indexAction не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 36 
 =================
+[2022-07-27 23:08:30] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
+=================
