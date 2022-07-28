@@ -80,3 +80,5 @@
 =================
 [2022-07-28 01:02:26] Текст помилки: Не найдено шаблон D:\OpenServer\domains\myframework.loc/app/views/layouts/ishop.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 44 
 =================
+[2022-07-29 01:24:05] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 61 
+=================

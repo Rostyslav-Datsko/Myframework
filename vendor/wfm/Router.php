@@ -7,7 +7,7 @@ class Router
     protected static array $routes = [];
     protected static array $route = [];
 
-    public static function Add($regexp, $route = [])
+    public static function add($regexp, $route = [])
     {
         self::$routes[$regexp] = $route;
     }
@@ -66,6 +66,7 @@ class Router
     {
         foreach (self::$routes as $pattern => $route){
 
+            //#{$pattern}# з маршрутів
             if (preg_match("#{$pattern}#", $url, $matches)){
                 foreach ($matches as $k => $v){
                      if (is_string($k)){
