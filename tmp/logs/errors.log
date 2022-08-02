@@ -882,3 +882,11 @@
 =================
 [2022-08-01 01:14:58] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 61 
 =================
+[2022-08-01 20:08:41] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 61 
+=================
+[2022-08-02 18:52:10] Текст помилки: syntax error, unexpected token "}", expecting ";" |Файл: D:\OpenServer\domains\myframework.loc\app\models\Main.php | Рядок: 13 
+=================
+[2022-08-02 18:52:18] Текст помилки: syntax error, unexpected token "}", expecting ";" |Файл: D:\OpenServer\domains\myframework.loc\app\models\Main.php | Рядок: 13 
+=================
+[2022-08-02 20:10:20] Текст помилки: compact(): Undefined variable $1 |Файл: D:\OpenServer\domains\myframework.loc\app\views\Main\index.php | Рядок: 47 
+=================
