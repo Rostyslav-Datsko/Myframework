@@ -23,5 +23,10 @@ function redirect($http = false)
     die;
 }
 
+function base_url()
+{
+    return PATH . '/' . (\wfm\App::$app->getProperty('lang') ? \wfm\App::$app->getProperty('lang') . '/' : '');
+}
+
 
 
