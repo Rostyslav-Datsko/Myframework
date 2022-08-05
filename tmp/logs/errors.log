@@ -28,3 +28,221 @@
 =================
 [2022-08-03 13:45:24] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
 =================
+[2022-08-05 11:57:36] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 12:00:41] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:01:36] Текст помилки: Контроллер \app\controllers\LanguageController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
+=================
+[2022-08-05 12:01:49] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:04:27] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:04:49] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:05:11] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:05:15] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:05:22] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 12:07:02] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:53:15] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:54:10] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:55:46] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:56:06] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:57:20] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:57:44] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 13:58:09] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 25 
+=================
+[2022-08-05 14:00:17] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:01:25] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:01:26] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:01:26] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:01:35] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:02:04] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:04] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:04] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:04] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:04] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:14] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:02:47] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:02:48] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:02:50] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:50] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:50] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:50] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:02:50] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:21] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:21] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:21] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:21] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:05:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:08:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:08:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:08:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:08:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:09:07] Текст помилки: foreach() argument must be of type array|object, bool given |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\App.php | Рядок: 24 
+=================
+[2022-08-05 14:24:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:24:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:24:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:24:28] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:27:00] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:27:00] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:27:00] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:27:00] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:27:00] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:11] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:11] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:11] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:11] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:11] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:33] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:33] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:33] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:30:33] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:32:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:32:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:32:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:32:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:56:24] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:56:24] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:56:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:56:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:56:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 14:56:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:50:24] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:50:26] Текст помилки: Undefined array key "code" |Файл: D:\OpenServer\domains\myframework.loc\app\controllers\LanguageController.php | Рядок: 30 
+=================
+[2022-08-05 15:51:51] Текст помилки: Undefined array key "code" |Файл: D:\OpenServer\domains\myframework.loc\app\controllers\LanguageController.php | Рядок: 30 
+=================
+[2022-08-05 15:51:57] Текст помилки: Undefined array key "code" |Файл: D:\OpenServer\domains\myframework.loc\app\controllers\LanguageController.php | Рядок: 30 
+=================
+[2022-08-05 15:52:15] Текст помилки: Undefined array key "code" |Файл: D:\OpenServer\domains\myframework.loc\app\controllers\LanguageController.php | Рядок: 30 
+=================
+[2022-08-05 15:52:41] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:52:46] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:53:10] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:57:18] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:57:19] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:58:12] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:58:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:58:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:58:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 15:58:20] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:01:05] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:01:18] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:16] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:16] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:16] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:16] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:18] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:18] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:18] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:18] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:58] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:58] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:58] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:58] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-05 16:02:58] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================

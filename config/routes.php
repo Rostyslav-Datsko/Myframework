@@ -2,20 +2,18 @@
 
 use wfm\Router;
 
-//Маршрут з префіксом admin
+//Route with admin prefix
 Router::add('^admin/?$', ['controller' => 'Main', 'action' => 'index', 'admin_prefix' => 'admin']);
-//Маршрут з префіксом admin який записує в масив контроллер все що до '/' а в дію - все що після
+
+//Route with the prefix admin, which writes everything before '/' into the controller array, and everything after into the action
 Router::add('^admin/(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$', ['admin_prefix' => 'admin']);
 
-//Маршрут з префіксом product який записує в масив slug все що до '/' а в дію - все що після
-//Router::add('^product/(?P<slug>[a-z0-9_-]+)/?$', ['controller' => 'Product', 'action' => 'view']);
-
-//Маршрут з префіксом product який записує в масив slug все що до '/' а в дію - все що після
+//Route with the product prefix that writes everything before '/' into the slug array, and everything after into the action
 Router::add('^(?P<lang>[a-z]+)?/?product/(?P<slug>[a-z0-9_-]+)/?$', ['controller' => 'Product', 'action' => 'view']);
 
-//будь-який маршрут у якому по замочуванню контроллер - Main а дія - index
-Router::add('^$', ['controller' => 'Main', 'action' => 'index']);
+//Any route in which the controller is Main and the action is index
+Router::add('^(?P<lang>[a-z]+)?/?$', ['controller' => 'Main', 'action' => 'index']);
 
-//Записує в масив контроллер все що до '/' а в дію - все що після
+//Route records everything in controller before '/' into the array, and everything after into the action
 Router::add('^(?P<controller>[a-z-]+)/(?P<action>[a-z-]+)/?$');
 

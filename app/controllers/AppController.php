@@ -15,9 +15,9 @@ class AppController extends Controller
         parent::__construct($route);
         new AppModel();
 
-        //запис усіх мов з бд в app
+        //record all languages into app
         App::$app->setProperty('languages', Language::getLanguages());
-        //запис вибраної мови в app
+        ///record chosen language into app
         App::$app->setProperty('language', Language::getLanguage(App::$app->getProperty('languages')));
     }
 }
