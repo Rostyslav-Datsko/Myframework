@@ -7,7 +7,7 @@ use wfm\View;
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-6">
-                    <h4>Информация</h4>
+                    <h4>Інформація</h4>
                     <ul class="list-unstyled">
                         <li><a href="#">Головна</a></li>
                         <li><a href="#">Про магазин</a></li>
@@ -17,7 +17,7 @@ use wfm\View;
                 </div>
 
                 <div class="col-md-3 col-6">
-                    <h4>Время работы</h4>
+                    <h4>Години роботи</h4>
                     <ul class="list-unstyled">
                         <li>м. Львів вул. Володимира Зеленського, 10</li>
                         <li>пн-нд: 9:00 - 18:00</li>
@@ -35,7 +35,7 @@ use wfm\View;
                 </div>
 
                 <div class="col-md-3 col-6">
-                    <h4>Маші сторінки</h4>
+                    <h4>Наші сторінки</h4>
                     <div class="footer-icons">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-youtube"></i></a>
