@@ -332,3 +332,13 @@
 =================
 [2022-08-07 10:36:22] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
 =================
+[2022-08-07 12:14:35] Текст помилки: syntax error, unexpected fully qualified name "\wfm\Language" |Файл: D:\OpenServer\domains\myframework.loc\app\controllers\AppController.php | Рядок: 26 
+=================
+[2022-08-07 12:15:25] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-07 12:15:25] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-07 12:15:25] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-07 12:16:32] Текст помилки: Cannot assign int to property wfm\Language::$lang_view of type array |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Language.php | Рядок: 24 
+=================
