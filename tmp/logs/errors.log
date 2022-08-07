@@ -342,3 +342,17 @@
 =================
 [2022-08-07 12:16:32] Текст помилки: Cannot assign int to property wfm\Language::$lang_view of type array |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Language.php | Рядок: 24 
 =================
+[2022-08-07 13:24:42] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
+[2022-08-07 13:24:43] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
+[2022-08-07 13:24:44] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
+[2022-08-07 13:24:44] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
+[2022-08-07 13:24:45] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
+[2022-08-07 13:24:45] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
+[2022-08-07 13:34:02] Текст помилки: unserialize(): Error at offset 0 of 12 bytes |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Cache.php | Рядок: 25 
+=================
