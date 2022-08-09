@@ -19,7 +19,7 @@ abstract class Controller
     public function getModel()
     {
         $model = 'app\models\\' . $this->route['admin_prefix'] . $this->route['controller'];
-        if (class_exists($model)){
+        if (class_exists($model)) {
             $this->model = new $model;
         }
     }
@@ -43,4 +43,18 @@ abstract class Controller
             'keywords' => $keywords
         ];
     }
+
+    public function isAjax(): bool
+    {
+        return isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest';
+    }
+
+    public function loadView($view, $vars = [])
+    {
+        extract($vars);
+        $prefix = str_replace('\\', '/', $this->route['admin_prefix']);
+        require APP . "/views/{$prefix}{$this->route['controller']}/{$view}.php";
+        die;
+    }
+
 }

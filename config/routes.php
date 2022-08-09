@@ -16,4 +16,5 @@ Router::add('^(?P<lang>[a-z]+)?/?$', ['controller' => 'Main', 'action' => 'index
 
 //Route records everything in controller before '/' into the array, and everything after into the action
 Router::add('^(?P<controller>[a-z-]+)/(?P<action>[a-z-]+)/?$');
+Router::add('^(?P<lang>[a-z]+)/(?P<controller>[a-z-]+)/(?P<action>[a-z-]+)/?$');
 
