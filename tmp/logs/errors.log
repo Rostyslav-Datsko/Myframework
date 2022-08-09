@@ -1028,3 +1028,5 @@
 =================
 [2022-08-09 21:51:42] Текст помилки: Контроллер \app\controllers\CategoryController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
 =================
+[2022-08-09 21:54:42] Текст помилки: Контроллер \app\controllers\CategoryController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
+=================
