@@ -1030,3 +1030,39 @@
 =================
 [2022-08-09 21:54:42] Текст помилки: Контроллер \app\controllers\CategoryController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
 =================
+[2022-08-10 09:31:42] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-12 15:22:25] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-12 15:26:57] Текст помилки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' |Файл: D:\OpenServer\domains\myframework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206 
+=================
+[2022-08-13 16:45:43] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 18:02:48] Текст помилки: Too few arguments to function app\models\Category::get_products(), 2 passed in D:\OpenServer\domains\myframework.loc\app\controllers\CategoryController.php on line 36 and exactly 4 expected |Файл: D:\OpenServer\domains\myframework.loc\app\models\Category.php | Рядок: 31 
+=================
+[2022-08-13 18:24:43] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 19:57:10] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 21:02:34] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 21:02:41] Текст помилки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESK LIMIT 0, 3' at line 2 |Файл: D:\OpenServer\domains\myframework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206 
+=================
+[2022-08-13 21:04:08] Текст помилки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESK LIMIT 0, 3' at line 2 |Файл: D:\OpenServer\domains\myframework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206 
+=================
+[2022-08-13 21:07:53] Текст помилки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESK LIMIT 0, 3' at line 2 |Файл: D:\OpenServer\domains\myframework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206 
+=================
+[2022-08-13 21:07:59] Текст помилки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASD LIMIT 0, 3' at line 2 |Файл: D:\OpenServer\domains\myframework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206 
+=================
+[2022-08-13 21:09:08] Текст помилки: Cannot redeclare app\models\Category::get_products() |Файл: D:\OpenServer\domains\myframework.loc\app\models\Category.php | Рядок: 50 
+=================
+[2022-08-13 21:09:23] Текст помилки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASD LIMIT 0, 3' at line 2 |Файл: D:\OpenServer\domains\myframework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Рядок: 206 
+=================
+[2022-08-13 21:12:07] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 21:15:42] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 21:15:42] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 21:15:43] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
