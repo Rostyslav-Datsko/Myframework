@@ -36,7 +36,7 @@ class Category extends AppModel
             'price_asc' => 'ORDER BY price ASC',
             'price_desc' => 'ORDER BY price DESC',
         ];
-        $order_by = '';
+        $order_by = "";
         if (isset($_GET['sort']) && array_key_exists($_GET['sort'], $sort_values)){
             $order_by = $sort_values[$_GET['sort']];
         }

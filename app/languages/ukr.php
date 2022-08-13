@@ -40,6 +40,7 @@ return [
 
     'tpl_search_title' => 'Пошук',
     'tpl_search_query' => 'Пошук по: ',
+    'tpl_search_not_found' => 'По запиту нічого не найдено',
 
     'tpl_wishlist_add_success' => 'Товар добавлений в обране',
     'tpl_wishlist_add_error' => 'Помилка додавання товару до обраного',

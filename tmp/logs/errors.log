@@ -1066,3 +1066,75 @@
 =================
 [2022-08-13 21:15:43] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
 =================
+[2022-08-13 21:28:39] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 21:28:42] Текст помилки: Контроллер \app\controllers\SearchController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
+=================
+[2022-08-13 22:18:25] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:18:31] Текст помилки: Undefined variable $category |Файл: D:\OpenServer\domains\myframework.loc\app\views\Search\index.php | Рядок: 21 
+=================
+[2022-08-13 22:19:27] Текст помилки: Undefined variable $category |Файл: D:\OpenServer\domains\myframework.loc\app\views\Search\index.php | Рядок: 21 
+=================
+[2022-08-13 22:20:22] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:20:59] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:22:34] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:22:35] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:22:37] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:22:38] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:23:11] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:23:12] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:23:12] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:23:13] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:23:13] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:23:15] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:23:15] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:23:33] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:23:35] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:24:47] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:07] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:07] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:08] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:08] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:08] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:08] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:08] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:25:08] Текст помилки: foreach() argument must be of type array|object, int given |Файл: D:\OpenServer\domains\myframework.loc\app\views\parts\products_loop.php | Рядок: 4 
+=================
+[2022-08-13 22:28:51] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:28:51] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:28:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:28:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:28:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:28:53] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-13 22:28:54] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
