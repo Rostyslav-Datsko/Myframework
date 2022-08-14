@@ -1174,3 +1174,7 @@
 =================
 [2022-08-14 17:28:27] Текст помилки: Не найдено view:D:\OpenServer\domains\myframework.loc/app/views/Wishlist/index.php |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\View.php | Рядок: 37 
 =================
+[2022-08-14 20:07:17] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-14 20:22:04] Текст помилки: Контроллер \app\controllers\PageController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
+=================

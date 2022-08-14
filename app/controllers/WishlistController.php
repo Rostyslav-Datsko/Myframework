@@ -44,7 +44,7 @@ class WishlistController extends AppController
         } else {
             $answer = ['result' => 'error', 'text' => ___('tpl_wishlist_delete_error')];
         }
-        exit(json_encode($answer));
+        exit(json_encode($answer)); 
 
     }
 }
