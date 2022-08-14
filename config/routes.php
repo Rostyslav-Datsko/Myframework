@@ -12,8 +12,10 @@ Router::add('^admin/(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$', ['admin_pre
 Router::add('^(?P<lang>[a-z]+)?/?product/(?P<slug>[a-z0-9_-]+)/?$', ['controller' => 'Product', 'action' => 'view']);
 //Route categories
 Router::add('^(?P<lang>[a-z]+)?/?category/(?P<slug>[a-z0-9_-]+)/?$', ['controller' => 'Category', 'action' => 'view']);
-//Route categories
+//Route search
 Router::add('^(?P<lang>[a-z]+)?/?search/?$', ['controller' => 'Search', 'action' => 'index']);
+//Route search
+Router::add('^(?P<lang>[a-z]+)?/?wishlist/?$', ['controller' => 'Wishlist', 'action' => 'index']);
 
 //Any route in which the controller is Main and the action is index
 Router::add('^(?P<lang>[a-z]+)?/?$', ['controller' => 'Main', 'action' => 'index']);

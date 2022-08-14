@@ -3,6 +3,6 @@
 return [
     'admin_email' => 'datskorostislav@gmail.com',
     'site_name' => 'E-shop',
-    'pagination' => 3,
+    'pagination' => 6,
 
 ];
