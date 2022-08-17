@@ -1178,3 +1178,7 @@
 =================
 [2022-08-14 20:22:04] Текст помилки: Контроллер \app\controllers\PageController не найдений |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 60 
 =================
+[2022-08-16 21:07:25] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
+[2022-08-17 21:59:38] Текст помилки: Сторінка не найдена |Файл: D:\OpenServer\domains\myframework.loc\vendor\wfm\Router.php | Рядок: 64 
+=================
